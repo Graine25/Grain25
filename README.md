@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@RockGamerAK](location.href/RockGamerAK)
+- 👋 Hi, I’m [@RockGamerAK](../RockGamerAK)
 - 👀 I’m interested in computer science!
 - 🌱 I’m currently learning Next.js on Verecel!
 - 💞️ I’m looking to collaborate on ...
