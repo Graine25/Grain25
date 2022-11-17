@@ -4,11 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: gh@RockGamerAK.com
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <a href="https://app.daily.dev/RockGamerAK">
-    <img src="https://api.daily.dev/devcards/f0e83bd18f9d4d2a927a495cb8c2bf31.png?r=zwc" width="400" alt="RockGamerAK's Dev Card"/>
-  </a>
-</div>
+[![RockGamerAK's Dev Card](https://api.daily.dev/devcards/f0e83bd18f9d4d2a927a495cb8c2bf31.png?r=zwc)](https://app.daily.dev/RockGamerAK)
 
 <!---
 RockGamerAK/RockGamerAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
