@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email: gh@RockGamerAK.com
 
 <a href="https://app.daily.dev/RockGamerAK" width="400" align="center">
-  ![RockGamerAK's Dev Card](https://api.daily.dev/devcards/f0e83bd18f9d4d2a927a495cb8c2bf31.png?r=zwc)
+  <img alt="RockGamerAK's Dev Card" src="https://api.daily.dev/devcards/f0e83bd18f9d4d2a927a495cb8c2bf31.png?r=zwc">
 </div>
   
 <!---
