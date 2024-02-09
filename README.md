@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - 👀 I’m interested in computer science!
-- 🌱 I’m currently learning Next.js on Verecel!
+- 🌱 I’m currently working with HTML, CSS, JS, [Python](https://python.org), C++, and [Astro](https://astro.build)!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: [gh@RockGamerAK.com](mailto:gh@adarshrkumar.dev)
 
