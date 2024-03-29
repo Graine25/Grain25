@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email: [gh@adarshrkumar.dev](mailto:gh@adarshrkumar.dev)
 
 <a href="https://app.daily.dev/adarshrkumar" width="100%">
-  <img alt="RockGamerAK's Dev Card" src="https://api.daily.dev/devcards/f0e83bd18f9d4d2a927a495cb8c2bf31.png" width="400" >
+  <img alt="RockGamerAK's Dev Card" src="https://api.daily.dev/devcards/f0e83bd18f9d4d2a927a495cb8c2bf31.png?r=zwc" width="400" >
 </div>
   
 <!---
