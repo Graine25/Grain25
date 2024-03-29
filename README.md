@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: [gh@adarshrkumar.dev](mailto:gh@adarshrkumar.dev)
 
-<a href="https://adarshrkumar.dev" style="margin-inline: auto;" width="750">
+<a href="https://github.com/adarshrkumar" style="margin-inline: auto;" width="750">
   <img alt="Adarsh Kumar's Website" src="https://image.thum.io/get/maxAge/12/width/750/https://github.com/adarshrkumar">
 </div>
   
