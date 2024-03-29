@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email: [gh@adarshrkumar.dev](mailto:gh@adarshrkumar.dev)
 
 <a href="https://adarshrkumar.dev" style="margin-inline: auto;" width="480">
-  <img alt="Adarsh Kumar's Website" src="https://image.thum.io/get/maxAge/12/width/480/https://adarshrkumar.dev" width="480" >
+  <img alt="Adarsh Kumar's Website" src="https://image.thum.io/get/maxAge/12/width/480/https://adarshrkumar.dev">
 </div>
   
 <!---
