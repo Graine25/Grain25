@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: [gh@adarshrkumar.dev](mailto:gh@adarshrkumar.dev)
 
-<a href="https://adarshrkumar.dev/portfolio" style="margin-inline: auto;" width="500">
+<!-- <a href="https://adarshrkumar.dev/portfolio" style="margin-inline: auto;" width="500">
   <img alt="Adarsh Kumar's Website" src="https://image.thum.io/get/maxAge/12/width/500/https://adarshrkumar.dev/portfolio">
-</div>
+</div> -->
   
 <!---
   adarshrkumar/adarshrkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
