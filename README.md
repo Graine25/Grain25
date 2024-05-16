@@ -10,7 +10,9 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![My Skills](https://skillicons.dev/icons?i=figma,firebase,gcp,git,github,githubactions,replit,vercel,visualstudio,vscode,windows)](#)
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,svg,bootstrap,nodejs,npm,express,vite,react,nextjs,astro,discordjs,ts,bash,powershell,py,flask,cpp,md,regex)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,svg,bootstrap)](#)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,vite,react,nextjs,astro,discordjs,ts)](#)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,py,flask,cpp,md,regex)](#)
 
 ## Social Media
 [![My Skills](https://skillicons.dev/icons?i=devto,discord,gmail,instagram,linkedin,stackoverflow,twitter)](#)
