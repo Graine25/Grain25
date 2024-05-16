@@ -7,7 +7,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - Music
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=arduino,figma,firebase,gcp,git,github,githubactions,gitlab,heroku,netlify,replit,robloxstudio,sublime,sketchup,vercel,visualstudio,vscode,windows)](#)
+[![My Skills](https://skillicons.dev/icons?i=figma,firebase,gcp,git,github,githubactions,replit,vercel,visualstudio,vscode,windows)](#)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,svg,bootstrap,nodejs,npm,express,vite,react,nextjs,astro,discordjs,ts,bash,powershell,py,flask,cpp,md,regex)](#)
