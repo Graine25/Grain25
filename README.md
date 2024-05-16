@@ -7,10 +7,13 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - Music
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=arduino,devto,discord,figma,firebase,gcp,git,git,githubactions,gitlab,gmail,heroku,instagram,linkedin,netlify,replit,robloxstudio,stackoverflow,sublime,sketchup,twitter,vercel,visualstudio,vscode,windows)](#)
+[![My Skills](https://skillicons.dev/icons?i=arduino,figma,firebase,gcp,git,github,githubactions,gitlab,heroku,netlify,replit,robloxstudio,sublime,sketchup,vercel,visualstudio,vscode,windows)](#)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,svg,bootstrap,nodejs,npm,express,vite,react,nextjs,astro,discordjs,ts,bash,powershell,py,flask,cpp,md,regex)](#)
+
+## Social Media
+[![My Skills](https://skillicons.dev/icons?i=devto,discord,gmail,instagram,linkedin,stackoverflow,twitter)](#)
 
 
 🌱 I’m currently working with HTML, CSS, JS, [Python](https://python.org), C++, and [Astro](https://astro.build)!
