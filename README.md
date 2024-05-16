@@ -13,10 +13,10 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ### Web Development
 
 #### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,svg,bootstrap)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svg,sass,bootstrap)](#)
 
 #### Back End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,vite,react,nextjs,astro,discordjs,ts)](#)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,vite,react,nextjs,astro,discordjs)](#)
 
 ### Other Languages
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,py,flask,cpp,md,regex)](#)
