@@ -13,7 +13,13 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ### Web Development
 
 #### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svg,sass,bootstrap)](#)
+[![HMTL](https://skillicons.dev/icons?i=html)](https://akum.site/p/HTMLInfo)
+[![CSS](https://skillicons.dev/icons?i=css)](https://akum.site/p/CSSInfo)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://akum.site/p/JSInfo)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![SVG](https://skillicons.dev/icons?i=svg)](https://akum.site/p/SVGInfo)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 
 #### Back End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,vite,react,nextjs,astro,discordjs)](#)
