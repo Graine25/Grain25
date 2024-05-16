@@ -11,7 +11,9 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,svg,bootstrap)](#)
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,vite,react,nextjs,astro,discordjs,ts)](#)
+
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,py,flask,cpp,md,regex)](#)
 
 ## Social Media
