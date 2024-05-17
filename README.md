@@ -7,7 +7,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - Music
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=figma)](#)
+[![My Skills](https://skillicons.dev/icons?i=figma)](figma)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](#)
 [![My Skills](https://skillicons.dev/icons?i=gcp)](#)
 [![My Skills](https://skillicons.dev/icons?i=git)](#)
