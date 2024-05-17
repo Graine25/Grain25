@@ -11,7 +11,13 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](#)
 [![My Skills](https://skillicons.dev/icons?i=gcp)](#)
 [![My Skills](https://skillicons.dev/icons?i=git)](#)
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,replit,vercel,visualstudio,vscode,windows)](#)
+[![My Skills](https://skillicons.dev/icons?i=github)](#)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,replit,vercel,visualstudio,vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=replit)](#)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](#)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=windows)](#)
 
 
 ## Languages
