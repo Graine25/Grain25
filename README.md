@@ -27,20 +27,41 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![HMTL](https://skillicons.dev/icons?i=html)](https://akum.site/p/HTMLInfo)
 [![CSS](https://skillicons.dev/icons?i=css)](https://akum.site/p/CSSInfo)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://akum.site/p/JSInfo)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![SVG](https://skillicons.dev/icons?i=svg)](https://akum.site/p/SVGInfo)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 
 #### Back End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,vite,react,nextjs,astro,discordjs)](#)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://npmjs.com)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://astro.build)
+[![My Skills](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)
 
 ### Other Languages
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,py,flask,cpp,md,regex)](#)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://akum.site/p/BASHInf)
+[![My Skills](https://skillicons.dev/icons?i=powershell)](https://akum.site/p/PowerShellInfo)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://python.org)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://akum.site/p/FlaskInfo)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
+[![My Skills](https://skillicons.dev/icons?i=md)](https://akum.site/p/MarkDownInfo)
+[![My Skills](https://skillicons.dev/icons?i=regex)](https://akum.site/p/RegExInfo)
 
 ## Social Media
-[![My Skills](https://skillicons.dev/icons?i=devto,discord,gmail,instagram,linkedin,stackoverflow,twitter)](#)
-
+[![My Skills](https://skillicons.dev/icons?i=devto)](#)
+[![My Skills](https://skillicons.dev/icons?i=discord)](#)
+[![My Skills](https://skillicons.dev/icons?i=facebook)](#)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](#)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](#)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](#)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](#)
+[![My Skills](https://skillicons.dev/icons?i=tiktok)](#)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](#)
+[![My Skills](https://skillicons.dev/icons?i=youtube)](#)
 
 🌱 I’m currently working with HTML, CSS, JS, [Python](https://python.org), C++, and [Astro](https://astro.build)!
 💞️ I’m looking to collaborate on ...
