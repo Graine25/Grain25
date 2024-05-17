@@ -7,17 +7,17 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - Music
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=figma)](figma)
-[![My Skills](https://skillicons.dev/icons?i=firebase)](#)
-[![My Skills](https://skillicons.dev/icons?i=gcp)](#)
-[![My Skills](https://skillicons.dev/icons?i=git)](#)
-[![My Skills](https://skillicons.dev/icons?i=github)](#)
-[![My Skills](https://skillicons.dev/icons?i=githubactions)](#)
-[![My Skills](https://skillicons.dev/icons?i=replit)](#)
-[![My Skills](https://skillicons.dev/icons?i=vercel)](#)
-[![My Skills](https://skillicons.dev/icons?i=visualstudio)](#)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](#)
-[![My Skills](https://skillicons.dev/icons?i=windows)](#)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.com)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com)
+[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)
+[![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)
 
 
 ## Languages
