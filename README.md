@@ -59,7 +59,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](#)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](#)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](#)
-<!-- [![My Skills](https://skillicons.dev/icons?i=tiktok)](#) -->
+[![My Skills](https://akum.site/p/TikTokIcon)](#)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](#)
 <!-- [![My Skills](https://skillicons.dev/icons?i=youtube)](#) -->
 
