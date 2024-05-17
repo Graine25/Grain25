@@ -54,7 +54,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ## Social Media
 [![My Skills](https://skillicons.dev/icons?i=devto)](#)
 [![My Skills](https://skillicons.dev/icons?i=discord)](#)
-[![My Skills](https://skillicons.dev/icons?i=facebook)](#)
+[![My Skills](https://akum.site/p/FacebookIcon)](#)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](#)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](#)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](#)
