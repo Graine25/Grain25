@@ -43,7 +43,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![My Skills](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)
 
 ### Other Languages
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://akum.site/p/BASHInf)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://akum.site/p/BASHInfo)
 [![My Skills](https://skillicons.dev/icons?i=powershell)](https://akum.site/p/PowerShellInfo)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://python.org)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://akum.site/p/FlaskInfo)
@@ -52,20 +52,20 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![My Skills](https://skillicons.dev/icons?i=regex)](https://akum.site/p/RegExInfo)
 
 ## Social Media
-[![My Skills](https://skillicons.dev/icons?i=devto)](#)
-[![My Skills](https://skillicons.dev/icons?i=discord)](#)
-[![My Skills](https://akum.site/p/FacebookIcon)](#)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](#)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](#)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](#)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](#)
-[![My Skills](https://akum.site/p/TikTokIcon)](#)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](#)
-<!-- [![My Skills](https://skillicons.dev/icons?i=youtube)](#) -->
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/adarshrkumar)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/adarshrkumar)
+[![Facebook](https://akum.site/p/FacebookIcon)](https://facebook.com/adarshrkumar)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adarshravikumar2@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/adarshrkumar)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/adarshrkumar)
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/adarshrkumar)
+[![TikTok](https://akum.site/p/TikTokIcon)](https://tiktok.com/@adarshrkumar)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/adarshrkumar)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@adarshrkumar)
 
 🌱 I’m currently working with HTML, CSS, JS, [Python](https://python.org), C++, and [Astro](https://astro.build)!
 💞️ I’m looking to collaborate on ...
-📫 How to reach me: Email: [gh@adarshrkumar.dev](mailto:gh@adarshrkumar.dev)
+📫 How to reach me: Email: [adarshrumar@aol.com](mailto:adarshrumar@aol.com)
 
 <!-- <a href="https://adarshrkumar.dev/portfolio" style="margin-inline: auto;" width="500">
   <img alt="Adarsh Kumar's Website" src="https://image.thum.io/get/maxAge/12/width/500/https://adarshrkumar.dev/portfolio">
