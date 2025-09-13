@@ -1,4 +1,4 @@
-Hi, I’m [@Rien Gupta](https://github.com/graine25)
+Hello there! I’m [@Rien Gupta](https://github.com/graine25)
 
 # Interests
 - Computer Engineering
@@ -9,15 +9,14 @@ Hi, I’m [@Rien Gupta](https://github.com/graine25)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.com)
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+[![My Skills](https://skillicons.dev/icons?i=CLion)](https://www.jetbrains.com/clion/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com)
-[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)
 [![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com)
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![My Skills](https://akum.site/p/CursorLogo)](https://cursor.com)
+[![My Skills](https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021)](https://cursor.com)
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)
 
 
