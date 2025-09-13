@@ -16,7 +16,7 @@ Hello there! I’m [@Rien Gupta](https://github.com/graine25)
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![My Skills](https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021)](https://cursor.com)
+[![My Skills](<img src="https://cdn.brandfetch.io/cursor.com?c=1idsRGhEvaII6g6-Lnq" alt="Logo by Brandfetch" />)](https://cursor.com)
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)
 
 
