@@ -1,10 +1,10 @@
-Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
+Hi, I’m [@Rien Gupta](https://github.com/graine25)
 
 # Interests
-- Computer Science
-- Coding
-- Photography
-- Music
+- Computer Engineering
+- Artificial Intelligence
+- Robotics
+- Reverse Engineering
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com)
