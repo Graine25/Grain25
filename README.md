@@ -8,16 +8,16 @@ Hello there! I’m [@Rien Gupta](https://github.com/graine25)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com)
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.com)
-[![My Skills](https://skillicons.dev/icons?i=CLion)](https://www.jetbrains.com/clion/)
+[![My Skills](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
+[![My Skills](https://cdn.brandfetch.io/ghidra-sre.org/w/50/h/50/logo?c=1idsRGhEvaII6g6-Lnq)](https://github.com/NationalSecurityAgency/ghidra)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com)
 [![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com)
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![My Skills](<img src="https://cdn.brandfetch.io/cursor.com?c=1idsRGhEvaII6g6-Lnq" alt="Logo by Brandfetch" />)](https://cursor.com)
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)
+[![My Skills](https://cdn.brandfetch.io/cursor.com/w/50/h/50?c=1idsRGhEvaII6g6-Lnq)](https://cursor.com)
+[![My Skills](https://cdn.brandfetch.io/apple.com/w/50/h/50/logo?c=1idsRGhEvaII6g6-Lnq)](https://developer.apple.com/macos/)
 
 
 ## Languages
